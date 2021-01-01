@@ -9,4 +9,4 @@ This repository is dedicated to the 100days of code challege of 100dayofpython c
 
 |Day| Project |Description| Language| Status|
 |--|--|--|--|--|
-| 1 | empty|  empty |empty | empty
+| 1 | Band name generator| Printing, commenting, debugging, string manipulation and variables | python | Done
