@@ -8,7 +8,7 @@ This repository is dedicated to the 100days of code challege of 100dayofpython c
 # Overview
 
 |Day| Project |Description| Language|Date |Status|
-|--|--|--|--|--|
+|--|--|--|--|--|--|
 | 1 | Band name generator| Printing, commenting, debugging, string manipulation and variables | python|1st Jan | Done
 |2|Tip Calculator|Data types, numbers, type conversions|python|2nd Jan|done|
 |3|Treasure island|conditional statements, logical operator|python|3rd Jan|done|
