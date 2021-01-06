@@ -13,3 +13,4 @@ This repository is dedicated to the 100days of code challege of 100dayofpython c
 |2|Tip Calculator|Data types, numbers, type conversions|python|2nd Jan|done|
 |3|Treasure island|conditional statements, logical operator|python|3rd Jan|done|
 |4|rock-paper-scissors|Randomisation and python list|python|4th Jan|Done|
+|5|password generator|python loop|python|5th Jan|Done|
