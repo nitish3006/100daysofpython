@@ -1,1 +1,13 @@
 
+#Write your code below this row 👇
+# method_one
+total = 0
+for even in range(2,101,2):
+  total += even
+print(total)
+# method_two
+total_1 = 0
+for number in range(1,101):
+  if number % 2 == 0:
+    total_1 += number
+print(total_1)
