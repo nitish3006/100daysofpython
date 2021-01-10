@@ -13,8 +13,8 @@ This repository is dedicated to the 100days of code challege of 100dayofpython c
 |2|Tip Calculator|Data types, numbers, type conversions|Python|2nd Jan|done|
 |3|Treasure island|conditional statements, logical operator|Python|3rd Jan|done|
 |4|rock-paper-scissors|Randomisation and python list|Python|4th Jan|Done|
-|5|password generator|python loop|python|5th Jan|Done|
-|6|Maze reebog|While loop|python|6th Jan|Done|
+|5|password generator|python loop|Python|5th Jan|Done|
+|6|Maze reebog|While loop|Python|6th Jan|Done|
 |7|HANGMAN|for and while loops|Python|7th Jan|Done|
 |8|Caeser & Cipher|function parameters|Python|8th Jan|Done|
 |9|The secret auction|dictionaries and nesting|Python|9th Jan|Done|
