@@ -21,4 +21,4 @@ This repository is dedicated to the 100days of code challege of 100dayofpython c
 |10|Calculator|Fuctions with outputs|Python|10th Jan|Done|
 |11|--|--|--|--|Done|
 |12|--|--|--|--|Done|
-|13|--|--|--|--|--|
+|13|--|--|--|--|Done|
