@@ -19,8 +19,8 @@ This repository is dedicated to the 100days of code challege of 100dayofpython c
 |8|Caeser & Cipher|function parameters|Python|8th Jan|Done|
 |9|The secret auction|dictionaries and nesting|Python|9th Jan|Done|
 |10|Calculator|Fuctions with outputs|Python|10th Jan|Done|
-|11|--|--|Python|--|Done|
-|12|--|--|Python|--|Done|
+|11|--|--|Python|10th Jan|Done|
+|12|--|--|Python|11th jan|Done|
 |13|--|--|Python|--|Done|
 |14|--|--|Python|--|Done|
 |15|--|--|--|--|Done|
