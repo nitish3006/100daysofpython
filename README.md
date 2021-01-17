@@ -24,5 +24,5 @@ This repository is dedicated to the 100days of code challege of 100dayofpython c
 |13|--|--|Python|--|Done|
 |14|--|--|Python|--|Done|
 |15|--|--|--|Python|Done|
-|--|--|--|--|--|Done|
-|--|--|--|--|--|Done|
+|16|--|--|--|--|Done|
+|17|--|--|--|--|Done|
