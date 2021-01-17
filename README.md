@@ -19,10 +19,10 @@ This repository is dedicated to the 100days of code challege of 100dayofpython c
 |8|Caeser & Cipher|function parameters|Python|8th Jan|Done|
 |9|The secret auction|dictionaries and nesting|Python|9th Jan|Done|
 |10|Calculator|Fuctions with outputs|Python|10th Jan|Done|
-|11|--|--|Python|10th Jan|Done|
-|12|--|--|Python|11th jan|Done|
-|13|--|--|Python|--|Done|
-|14|--|--|Python|--|Done|
-|15|--|--|Python||Done|
-|16|--|--|Python|--|Done|
-|17|--|--|Python|--|Done|
+|11|--|--|Python|11th Jan|Done|
+|12|--|--|Python|12th jan|Done|
+|13|--|--|Python|13th jan|Done|
+|14|--|--|Python|14th jan|Done|
+|15|--|--|Python|15th jan|Done|
+|16|--|--|Python|16th jan|Done|
+|17|--|--|Python|17th jan|Done|
