@@ -26,8 +26,8 @@ This repository is dedicated to the 100days of code challege of 100dayofpython c
 |15|--|--|Python|15th jan|Done|
 |16|--|--|Python|16th jan|Done|
 |17|--|--|Python|17th jan|Done|
-|18|--|--|Python|--|Done|
-|19|--|--|Python|--|Done|
-|20|--|--|Python|--|Done|
+|18|--|--|Python|18th jan|Done|
+|19|--|--|Python|19th jan|Done|
+|20|--|--|Python|20th jan|Done|
 
  
