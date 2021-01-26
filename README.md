@@ -34,5 +34,5 @@ This repository is dedicated to the 100days of code challege of 100dayofpython c
 |23|--|--|--|--|Done|
 |24|--|--|--|--|Done|
 |25|--|--|--|--|--|
-|25|--|--|--|--|--|
+|26|--|--|--|--|Done|
  
